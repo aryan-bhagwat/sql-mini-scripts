@@ -5,3 +5,4 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 ### ✔️ Scripts Added
 - `current_date.sql`: Shows today’s date using `GETDATE()`
 - `top-customers.sql`: Displays top 3 customers by total spend
+- `sales_by_country.sql`: Shows total sales per country sorted by revenue
