@@ -1,3 +1,7 @@
+## 🔍 About This Repo
+
+This repository contains short, helpful SQL scripts for quick reference and analysis. Each script is standalone and documented with notes.
+
 ## 📁 SQL Mini Scripts
 
 A collection of useful one-line or short SQL queries for learning and quick reference.
