@@ -12,6 +12,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `sales_by_country.sql`: Shows total sales per country sorted by revenue
 - `products_profitability.sql` : Displays top 5 products by total profit
 - `recent_orders_notes.sql` : Get 5 most recent orders placed
+- `high_quantity_orders.sql` : Fetch orders with quantity greater than 100
 
 ## 🧑‍💻 Author
 
