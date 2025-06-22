@@ -13,6 +13,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `products_profitability.sql` : Displays top 5 products by total profit
 - `recent_orders_notes.sql` : Get 5 most recent orders placed
 - `high_quantity_orders.sql` : Fetch orders with quantity greater than 100
+- `top_states_by_sales.sql` : Top 5 states by total sales
 
 ## 🧑‍💻 Author
 
