@@ -14,6 +14,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `recent_orders_notes.sql` : Get 5 most recent orders placed
 - `high_quantity_orders.sql` : Fetch orders with quantity greater than 100
 - `top_states_by_sales.sql` : Top 5 states by total sales
+- `top_customers_by_spend.sql` : Top 5 customers by total spend
 
 ## 🧑‍💻 Author
 
