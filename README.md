@@ -17,6 +17,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `top_customers_by_spend.sql` : Top 5 customers by total spend
 - `low_stock_products.sql` : Find products with quantity less than 10 (low stock alert)
 - `average_order_value.sql` : Calculate average order value
+- `customer_order_gap.sql` : Calculate days between a customer's consecutive orders
 
 ## 🧑‍💻 Author
 
