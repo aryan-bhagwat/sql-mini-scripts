@@ -19,6 +19,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `average_order_value.sql` : Calculate average order value
 - `customer_order_gap.sql` : Calculate days between a customer's consecutive orders
 - `products_never_ordered.sql` : Find products that have never been ordered
+- `monthly_sales_trend.sql` : Monthly sales trend by year
 
 ## 🧑‍💻 Author
 
