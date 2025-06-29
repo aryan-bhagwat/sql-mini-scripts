@@ -20,6 +20,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `customer_order_gap.sql` : Calculate days between a customer's consecutive orders
 - `products_never_ordered.sql` : Find products that have never been ordered
 - `monthly_sales_trend.sql` : Monthly sales trend by year
+- `customers_no_orders.md` : Add customers without orders query
 
 ## 🧑‍💻 Author
 
