@@ -21,7 +21,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `products_never_ordered.sql` : Find products that have never been ordered
 - `monthly_sales_trend.sql` : Monthly sales trend by year
 - `customers_no_orders.md` : Add customers without orders query
-- `employee_perfromance_ranking.sql` : Rank employees by sales performance with percentile rankings
+- `highest_spending_customer.sql` : Identify the customer who spent the most overall
 
 ## 🧑‍💻 Author
 
