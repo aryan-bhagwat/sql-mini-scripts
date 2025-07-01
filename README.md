@@ -22,6 +22,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `monthly_sales_trend.sql` : Monthly sales trend by year
 - `customers_no_orders.md` : Add customers without orders query
 - `highest_spending_customer.sql` : Identify the customer who spent the most overall
+- `inactive_customers.sql` : Find customers with no orders in the last 6 months
 
 ## 🧑‍💻 Author
 
