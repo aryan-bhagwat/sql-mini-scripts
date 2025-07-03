@@ -23,6 +23,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `customers_no_orders.md` : Add customers without orders query
 - `highest_spending_customer.sql` : Identify the customer who spent the most overall
 - `inactive_customers.sql` : Find customers with no orders in the last 6 months
+- `avg_order_value_by_customer.sql` : Average order value by customer
 
 ## 🧑‍💻 Author
 
