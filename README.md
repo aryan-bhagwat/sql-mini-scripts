@@ -24,8 +24,10 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `highest_spending_customer.sql` : Identify the customer who spent the most overall
 - `inactive_customers.sql` : Find customers with no orders in the last 6 months
 - `avg_order_value_by_customer.sql` : Average order value by customer
+- `top_5_products_by_sales.sql` : Top 5 products by total sales revenue
 
 ## 🧑‍💻 Author
 
 Aryan Bhagwat  
-GitHub: [@aryan-bhagwat](https://github.com/aryan-bhagwat)  
+GitHub: [@aryan-bhagwat](https://github.com/aryan-bhagwat) 
+LinkedIn: https://linkedin.com/in/aryan-bhagwat
