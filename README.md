@@ -26,6 +26,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `avg_order_value_by_customer.sql` : Average order value by customer
 - `top_5_products_by_sales.sql` : Top 5 products by total sales revenue
 - `high_return_customers.sql` : Customers who returned more than 2 products
+- `most_sold_products.sql` : Most sold products by quantity
 
 ## 🧑‍💻 Author
 
