@@ -29,6 +29,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `most_sold_products.sql` : Most sold products by quantity
 - `customer_lifetime_value.sql` : Calculate customer lifetime value (CLV)
 - `revenue_by_category.sql` : Total revenue generated per product category
+- `most_active_customers.sql` : Customers with the most frequent order activity
 
 ## 🧑‍💻 Author
 
