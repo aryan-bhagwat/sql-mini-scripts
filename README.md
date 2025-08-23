@@ -31,6 +31,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `revenue_by_category.sql` : Total revenue generated per product category
 - `most_active_customers.sql` : Customers with the most frequent order activity
 - `orders_by_region.sql` : Count orders by region
+- `avg_order_value.sql` : Average order value by customer
 
 ## 🧑‍💻 Author
 
