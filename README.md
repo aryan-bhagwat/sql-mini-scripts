@@ -2,6 +2,7 @@
 
 This repository contains short, helpful SQL scripts for quick reference and analysis. Each script is standalone and documented with notes.
 
+
 ## 📁 SQL Mini Scripts
 
 A collection of useful one-line or short SQL queries for learning and quick reference.
@@ -33,6 +34,7 @@ A collection of useful one-line or short SQL queries for learning and quick refe
 - `orders_by_region.sql` : Count orders by region
 - `avg_order_value.sql` : Average order value by customer
 - `high_value_orders.sql` : Find High-Value Orders (over 500 currency units)
+
 
 ## 🧑‍💻 Author
 
