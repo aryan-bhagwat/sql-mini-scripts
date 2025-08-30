@@ -1,4 +1,5 @@
 -- Script: Find High-Value Orders (over 500 currency units)
+
 SELECT o.order_id, c.customer_name,
        SUM(oi.quantity * oi.unit_price) AS order_total
 FROM orders o
